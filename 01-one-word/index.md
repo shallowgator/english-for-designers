@@ -1,42 +1,27 @@
-# “Just”
+# “Enough is enough and I’ve had enough.”
 
-by [Brad Frost](https://bradfrost.com)
+There are some words that could in a single moment turn my skin inside-out, make me wail with joy or make me scream in agonising pain. But one world alone in a vacuum is, on its own, not powerful enough to do that. But just like people and everything else we interact with; words don’t exist in a vacuum. They function in texts; with all the context, subtext, metaphors and everything else. A normal person can not comprehend all of it. And in that regard, words are very powerful. They make up the fabric of all conversations from romantic to academic and so on and so forth. The words may change but the meaning doesn’t. At least I hope so.
 
-28 Jan 2014
+So, let’s face it. I’ve been thinking about words. But after I got tired of it one word kind of got stuck in my head. Now, it’s not that I somehow “hate” that word, or that I wouldn’t ever use it or something. I sort of feel that the word leaves you wanting more. The more I thought about it the more angry and frustrated I got. Not at that word though, it’s working as it should and that’s how words work, right?
 
-- - -
+To better understand what I’m talking about, I’m going to list a bunch of examples – and my personal reaction to them.
 
-I feel like an idiot while doing my job. A lot.
+Examples: 
 
-Now there’s a damn good chance I’m actually an idiot, but the self-respecting part of me wants to challenge that notion.
+“You’re enough.” is this supposed to be positive? Am I enough for what? Can I ever be something more than enough? It feels like only settling with me cause “it’s good enough” right?
 
-When I get stuck on a task or am looking for recommendations for tools, resources, solutions, or whatever, I often take to Twitter to ask for help.
+“You’re not enough.”?? God that hurts. Am I not enough for what? In every regard? Not good enough to enrol in the school I wanted to or to get the job I wanted etc.
 
-Seconds after posting my quandary, my stream gets flooded with a host of advice, links, insights, and opinions. This “crowd-sourcing my knowledgesphere” is a wonderful thing. But one word in all those proffered solutions tends to stick out in my mind like a jagged, rusty nail ready to figuratively jam itself into my eye socket.
+“I’ve done enough” just sounds like I should’ve done more (or less) but for whatever reason I didn’t and/or couldn’t.
 
-**“Just…”**
+“I’ve had enough”. Sounding out with this loud sigh of defeat. A vague scene of leaving out the door, feels so sad and melancholic; and lonely.
 
-As in “**Just** update your ruby gems, generate a new SSH key, and run a git rebase…“
+“I’ve had enough... to drink”?? Not only you’re most likely pissed out of your mind, while you stumble through slurring the sentence out. But you’re also letting down all your mates in the process. Sure, it’s the responsible thing to do. At least regarding your finances and your personal health. But it doesn’t always work out, now does it?
 
-“**Just** clone the dev branch, add those three grunt tasks, and recompile…”
-
-“**Just** use this software, platform, toolkit, method…”
-
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background and studied certain courses in university. And fluent in certain technologies. And have read all the right books, articles, and resources. “Just” is a dangerous word.
-
-We approach problems equipped with our own set of experiences, perspective, and skills. It’s a struggle to step outside of our own perspective when communicating with others, but it’s essential to do so.
-
-The amount of available knowledge in our field (or any field) is growing larger, more complex, and more segmented all the time. That everyone has downloaded the same fundamental knowledge on any topic is becoming less and less probable. Because of this, we have to be careful not to make too many assumptions in our documentation, blog posts, tutorials, and communications.
-
-Imagine yourself explaining a particular task to an earlier version of yourself. Once upon a time, you didn’t know what you know now. Provide context. The beauty of [hypertext](https://en.wikipedia.org/wiki/Hypertext) is that we’re able to add much-needed context, fast. It’s helpful for newbies but easy enough for those already in-the-know to scan over. And making documentation more human-readable benefits everyone.
-
-I don’t envy those just entering the field of web development. Besides learning the basics, there’s an expectation to be proficient in an endless laundry list of buzzwords and technologies. I’m seven years into my career and still feel like I’m still on Chapter 1 of the Big Book of Web Design.
-
-So think twice before suggesting someone “just” [insert any task here]. You just might make them feel like an idiot.
+Depending on context, during the use of the word “enough”, someone always ends up disappointed in some way. The word can end up making the sentence feel more neutral, humorous, or even just plain sad. As I’ve said before, this doesn’t mean that we should avoid that word. I guess it makes a point that you should in fact think before you speak (or write).
 
 ## Process
 
 - [Rough Draft](rough-draft.md) (word dump, sketch)
 - [First Draft](first-draft.md) (make sense, cleanup)
 - [Revision](revision.md) (review, process)
-
