@@ -12,3 +12,9 @@ Examples:
 “I’ve had enough”. Sounding out with this loud sigh of defeat and a vague scene of leaving out the door, just feels so sad and melancholic; and lonely.
 “I’ve had enough... to drink”? Not only you’re most likely pissed out of your mind when you barely stumble through slurring the sentence out, but you’re also letting down all your mates in the process. Sure, it’s the responsible thing to do, regarding your personal finances and your personal health. But it doesn’t always work out as easily, now does it?
 	Depending on context, with the use of the word “enough” someone, (me/you/they) always ends up disappointed in some way, shape or form. The word can end up making the sentence feel more neutral, humorous, or even just plain sad. As I’ve said before, this doesn’t mean that we should avoid that word. I guess it just makes a point that you should in fact think before you speak (or write).
+
+## Process
+
+- [Rough Draft](rough-draft.md) (word dump, sketch)
+- [First Draft](first-draft.md) (make sense, cleanup)
+- [Revision](revision.md) (review, process)
