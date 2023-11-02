@@ -18,7 +18,7 @@ To better understand what I’m talking about, I’m going to list a bunch of ex
 
 “I’ve had enough... to drink”?? Not only you’re most likely pissed out of your mind, while you stumble through slurring the sentence out. But you’re also letting down all your mates in the process. Sure, it’s the responsible thing to do. At least regarding your finances and your personal health. But it doesn’t always work out, now does it?
 
-  Depending on context, during the use of the word “enough”, someone always ends up disappointed in some way. The word can end up making the sentence feel more neutral, humorous, or even just plain sad. As I’ve said before, this doesn’t mean that we should avoid that word. I guess it makes a point that you should in fact think before you speak (or write).
+  Depending on context, whilst using the word “enough”, someone always ends up disappointed in some way. The word can end up making the sentence feel more neutral, humorous, or even just plain sad. As I’ve said before, this doesn’t mean that we should avoid that word. I guess it makes a point that you should in fact think before you speak (or write).
 
 ## Process
 
