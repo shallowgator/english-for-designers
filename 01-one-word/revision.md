@@ -15,7 +15,6 @@ There are some words that could in a single moment turn my skin inside-out, make
 
 ### Thesis Statement
 
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background<del>,</del><ins>and</ins> studied certain courses in university<del>, am fluent</del><ins>. And fluent</ins> in certain technologies<del>, and</del><ins>. And</ins> have read all the right books, articles, and resources. “Just” is a dangerous word.
 
 ### The Whys
 
@@ -29,4 +28,4 @@ I don’t envy those just entering the field of web development. <del>In additio
 
 ### Takeaway
 
-So think twice before suggesting someone “just” [insert any task here]. You just might make them feel like an idiot.
+
