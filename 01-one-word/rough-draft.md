@@ -5,10 +5,10 @@
 
 ## Rough Draft
 
-# Just
+# Enough is enough and I’ve had enough.
 
-I ask for Twitter help when stuck. "Just" makes me feel stupid. Crowdsourcing is great, but that word hurts.
+“You’re enough.” “You’re not enough.” “I’ve done enough” “I’ve had enough” “I’ve had enough to drink”
 
-We must step out of our perspective. Imagine explaining to a past self. Hypertext adds context. Knowledge grows.
+enough enough enough enough enough enough enough enough enough enough enough enough enough enough enough enough enough enough enough enough ENOUGH!!!
 
-Avoid assumptions in docs, posts, tutorials. "Just" assumes too much. Learning buzzwords is tough. Think before suggesting "just."
+
