@@ -11,13 +11,7 @@
 
 There are some words that could in a single moment turn my skin inside-out, make me wail with joy or make me scream in agonising pain.
 
-**“Just…”**
-
-As in “**Just** update your ruby gems, generate a new SSH key, and run a git rebase…“
-
-“**Just** clone the dev branch, add those three grunt tasks, and recompile…”
-
-“**Just** use this <del>software/platform/toolkit/methodology</del> <ins>software, platform, toolkit, method</ins>…”
+**“Enough.”**
 
 ### Thesis Statement
 
