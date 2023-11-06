@@ -1,5 +1,7 @@
 # “Enough is enough and I’ve had enough.”
 
+<IMG SRC="face_distorting.gif">.
+
   There are some words that could in a single moment turn my skin inside-out, make me wail with joy or make me scream in agonising pain. But one world alone in a vacuum is, on its own, not powerful enough to do that. But just like people and everything else we interact with; words don’t exist in a vacuum. They function in texts; with all the context, subtext, metaphors and everything else. A normal person can not comprehend all of it. And in that regard, words are very powerful. They make up the fabric of all conversations from romantic to academic and so on and so forth. The words may change but the meaning doesn’t. At least I hope so.
 
   So, let’s face it. I’ve been thinking about words. But after I got tired of it one word kind of got stuck in my head. Now, it’s not that I somehow “hate” that word, or that I wouldn’t ever use it or something. I sort of feel that the word leaves you wanting more. The more I thought about it the more angry and frustrated I got. Not at that word though, it’s working as it should and that’s how words work, right?
