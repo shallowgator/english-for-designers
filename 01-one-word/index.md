@@ -1,6 +1,6 @@
 # “Enough is enough and I’ve had enough.”
 
-![a neutral simplified face maniacally distorting, pulling an agonising face](https://github.com/shallowgator/english-for-designers/assets/149425864/6244bb12-0173-4e92-b092-b9416ed85a0e=250x250)
+![a neutral simplified face maniacally distorting, pulling an agonising face](https://github.com/shallowgator/english-for-designers/assets/149425864/6244bb12-0173-4e92-b092-b9416ed85a0e width="48")
 
 
   There are some words that could in a single moment turn my skin inside-out, make me wail with joy or make me scream in agonising pain. But one world alone in a vacuum is, on its own, not powerful enough to do that. But just like people and everything else we interact with; words don’t exist in a vacuum. They function in texts; with all the context, subtext, metaphors and everything else. A normal person can not comprehend all of it. And in that regard, words are very powerful. They make up the fabric of all conversations from romantic to academic and so on and so forth. The words may change but the meaning doesn’t. At least I hope so.
