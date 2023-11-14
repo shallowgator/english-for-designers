@@ -9,13 +9,14 @@
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
 
-## About
+## About me
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-![Write an alternative text description.](img/seliga-headshot.png)
+![A stylised illustration of Matus Seliga wearing a hat and a scarf.](img/seliga-headshot.png)
 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
+There is not enough hours in a day to cater to all of my interests. My name is Matúš Šeliga and I’m a generalist who can do anything you want me to with varying levels of success but never without any interest and authenticity.
+
 
 ## Featured Projects
 
