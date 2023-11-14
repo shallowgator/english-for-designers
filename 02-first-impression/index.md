@@ -15,14 +15,15 @@
 
 ![A stylised illustration of Matus Seliga wearing a hat and a scarf.](img/seliga-headshot.png)
 
-There is not enough hours in a day to cater to all of my interests. My name is Matúš Šeliga and I’m a generalist who can do anything you want me to with varying levels of success but never without any interest and authenticity.
+There is not enough hours in a day to cater to all of my interests. 
+My name is Matúš Šeliga and I’m a generalist who can do anything you want me to with varying levels of success but never without any interest and authenticity. 
 
 
 ## Featured Projects
 
-A short description about the work.
+One of my all-time personal endeavors is a perpetual multimedia project I named:
 
-### Featured Project 1 Title
+### shallow gator
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
