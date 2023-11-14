@@ -13,7 +13,7 @@
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-![Write an alternative text description.](img/surname-headshot.jpg)
+![Write an alternative text description.](img/seliga-headshot.png)
 
 A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
 
