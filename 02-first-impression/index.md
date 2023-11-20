@@ -17,9 +17,13 @@
 
 There is not enough hours in a day to cater to all of my interests. 
 My name is Matúš Šeliga and I’m a generalist who can do just about anything you want me to with varying levels of success but never without any interest and authenticity.
-For four years I studied ceramic design at ŠUP Josefa Vydru in Bratislava, Slovakia. Currently I'm studying animation and VFX at VSKK in Prague.
+I studied ceramic design at ŠUP Josefa Vydru in Bratislava, Slovakia. Currently studying animation and VFX at VSKK in Prague.
 
 ## Featured Projects
+
+### A mascot for golf tournament
+
+![Write an alternative text description.](img/golfball face.png)
 
 One of my all-time personal endeavors is a perpetual multimedia project I named:
 
