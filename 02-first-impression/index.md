@@ -21,7 +21,7 @@ I studied ceramic design at ŠUP Josefa Vydru in Bratislava, Slovakia. Currently
 
 ## Featured Projects
 
-### A mascot for golf tournament
+### Logo for a golf tournament and for a sheep wool oriented clothing company
 
 ![Write an alternative text description.](img/logos.png)
 
