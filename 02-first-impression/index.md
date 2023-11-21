@@ -33,11 +33,17 @@ One of my all-time personal endeavors is a perpetual multimedia project named:
 
 ![Write an alternative text description.](img/collages2.png)
 
+a series of collages i did as cover artworks for my various songs 
+
 ![Write an alternative text description.](img/sg2.png)
 
-- A short description about the project — *the what*.
-- A short description about the significance of the project — *the whys*.
-- A short description about the outcome of the project — *the result or takeaway*.
+an illustration and a linocut
+
+### some 3D work
+
+![Write an alternative text description.](img/3dwork.png)
+
+a room render and stylized game asset hammer render
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
