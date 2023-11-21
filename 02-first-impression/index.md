@@ -25,7 +25,7 @@ I studied ceramic design at ŠUP Josefa Vydru in Bratislava, Slovakia. Currently
 
 ![Write an alternative text description.](img/logos.png)
 
-## personal endeavor, a perpetual multimedia project named:
+## a perpetual personal endeavor, multimedia project named: 
 
 ### shallow gator
 
