@@ -16,7 +16,7 @@
 ![A stylised illustration of Matus Seliga wearing a hat and a scarf.](img/seliga-headshot.png)
 
 There is not enough hours in a day to cater to all of my interests. 
-My name is Matúš Šeliga and I’m a generalist who can do just about anything you want me to with varying levels of success but never without any interest and authenticity.
+My name is Matúš Šeliga and I’m a generalist who can do just about anything you want me to with varying levels of success but never without interest and authenticity.
 I studied ceramic design at ŠUP Josefa Vydru in Bratislava, Slovakia. Currently studying animation and VFX at VSKK in Prague.
 
 ## Featured Projects
@@ -33,7 +33,7 @@ I studied ceramic design at ŠUP Josefa Vydru in Bratislava, Slovakia. Currently
 
 ![Write an alternative text description.](img/collages2.png)
 
-a series of collages i did as cover artworks for my various songs 
+a series of collages i did as cover artworks for my various tracks
 
 ![Write an alternative text description.](img/sg2.png)
 
