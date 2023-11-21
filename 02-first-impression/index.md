@@ -23,7 +23,7 @@ I studied ceramic design at ŠUP Josefa Vydru in Bratislava, Slovakia. Currently
 
 ### A mascot for golf tournament
 
-![Write an alternative text description.](img/golfball_face.png)
+![Write an alternative text description.](img/logos.png)
 
 One of my all-time personal endeavors is a perpetual multimedia project I named:
 
