@@ -25,7 +25,7 @@ I studied ceramic design at ŠUP Josefa Vydru in Bratislava, Slovakia. Currently
 
 ![Write an alternative text description.](img/logos.png)
 
-One of my all-time personal endeavors is a perpetual multimedia project I named:
+One of my all-time personal endeavors is a perpetual multimedia project named:
 
 ### shallow gator
 
