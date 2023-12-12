@@ -23,9 +23,6 @@ There are some words that could in a single moment turn my skin inside-out, make
 
 Depending on context, whilst using the word “enough”, someone always ends up disappointed in some way. The word can end up making the sentence feel more neutral, humorous, or even just plain sad. As I’ve said before, this doesn’t mean that we should avoid that word. I guess it makes a point that you should in fact think before you speak (or write).
 
-
-I don’t envy those just entering the field of web development. <del>In addition to</del> <ins>Besides</ins> learning the <del>fundamentals</del> <ins>basics</ins>, there’s an expectation to be proficient in an <del>increasingly exhausting</del> <ins>endless</ins> laundry list of buzzwords and technologies. I’m seven years into my career and still feel like I’m still on Chapter 1 of the Big Book of Web Design.
-
 ### Takeaway
 
 
