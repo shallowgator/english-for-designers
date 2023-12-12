@@ -27,11 +27,13 @@ In highschool I studied ceramic design in Slovakia. Currently studying animation
 
 ### shallow gator
 
+Consisting of drawings, linocuts, collages, music and everything in between.
+
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
 ![Write an alternative text description.](img/collages2.png)
 
-a series of collages i did as cover artworks for my various tracks
+a series of collages i made as cover artworks for various tracks
 
 ![Write an alternative text description.](img/sg2.png)
 
