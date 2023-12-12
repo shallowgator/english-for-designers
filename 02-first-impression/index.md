@@ -23,10 +23,6 @@ I studied ceramic design at ŠUP Josefa Vydru in Bratislava, Slovakia. Currently
 
 ## Featured Projects
 
-### Logo for a golf tournament and for a sheep wool oriented clothing company
-
-![Write an alternative text description.](img/logos.png)
-
 ## a perpetual personal endeavor, multimedia project named: 
 
 ### shallow gator
@@ -41,11 +37,19 @@ a series of collages i did as cover artworks for my various tracks
 
 an illustration and a linocut
 
+### Logo for a golf tournament and for a sheep wool oriented clothing company
+
+![Write an alternative text description.](img/logos.png)
+
 ### some 3D work
 
 ![Write an alternative text description.](img/3dwork.png)
 
 a room render and stylized game asset hammer render
+
+![Write an alternative text description.](img/3dwork.png)
+
+enviroment for a short film "Von F. Ishing"
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
