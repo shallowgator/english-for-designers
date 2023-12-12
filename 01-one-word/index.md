@@ -1,4 +1,6 @@
-# “Enough is enough and I’ve had enough.”
+# Enough is enough and I’ve had "enough"
+by Matus Seliga
+12.12.2023
 
 ![A short animation of a poker face transforming into a distorted screaming frog face. Animated GIF.](https://github.com/shallowgator/english-for-designers/assets/149425864/6244bb12-0173-4e92-b092-b9416ed85a0ewidth="48")
 
