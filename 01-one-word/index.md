@@ -2,7 +2,7 @@
 by Matus Seliga
 12.12.2023
 
-![A close up of a poker face transforming into a distorted screaming frog face. Animated GIF.](/poker-frog-face.gif)
+![A close up of a poker face transforming into a distorted screaming frog face. Animated GIF.](01-one-word/poker-frog-face.gif)
 
 
   There are some words that could in a single moment turn my skin inside-out, make me wail with joy or make me scream in agonising pain. But one world alone in a vacuum is, on its own, not powerful enough to do that. But just like people and everything else we interact with; words don’t exist in a vacuum. They function in texts; with all the context, subtext, metaphors and everything else. A normal person can not comprehend all of it. And in that regard, words are very powerful. They make up the fabric of all conversations from romantic to academic and so on and so forth. The words may change but the meaning doesn’t. At least I hope so.
