@@ -18,8 +18,8 @@
 ## Matúš Šeliga
 
 There is not enough hours in a day to cater to all of my interests. 
-My name is Matúš Šeliga and I’m a generalist who can do just about anything you want me to with varying levels of success but never without interest and authenticity.
-I studied ceramic design at ŠUP Josefa Vydru in Bratislava, Slovakia. Currently studying animation and VFX at VSKK in Prague.
+My name is Matúš Šeliga and I’m a silly goofy guy, illustrator, 3D artist and musician.
+In highschool I studied ceramic design in Slovakia. Currently studying animation and VFX at VSKK in Prague.
 
 ## Featured Projects
 
