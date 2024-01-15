@@ -7,4 +7,4 @@
 
 I also dabble in 3D, VFX, editing and music. If you'd fancy more info. [about me](about.md).
 
-![Me sitting in my makeshift bedroom recording "studio".](img/re.jpg)
+![Me in my makeshift bedroom recording "studio".](img/me_in_the_studio.png)
