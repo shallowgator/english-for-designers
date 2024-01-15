@@ -9,13 +9,13 @@
 
 - [Draft content](02-first-impression/index.md)
 
-- [**Una Kravets**](./) <!-- Use `index.md` as well. `./` is a shortcut back to your home page `index.md` -->
+- [**Matúš Šeliga**](./) <!-- Use `index.md` as well. `./` is a shortcut back to your home page `index.md` -->
     - [Work](work/index.md)
     - [Writing](writing/index.md)
     - [About](about.md)
 
-![Me sitting in a podcasting seat in the studio.](img/portrait-studio-una.jpg)
+![Me sitting in my makeshift bedroom recording "studio".](img/re.jpg)
 
-## Hello World, My name is Una, and I’m a web developer.
+## Howdy, round these parts I'm known as Matúš and I'm an illustrator with a wide and shifting focus (also currently moonlighting as a private detective).
 
-Oh, and I’m a podcaster, too. Learn more [about me](about.md).
+I also dabble in 3D, VFX, editing and music. If you'd fancy more info. [about me](about.md).
