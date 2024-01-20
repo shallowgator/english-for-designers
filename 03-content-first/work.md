@@ -32,7 +32,7 @@ a short film named: "Von F. Ishing" about disassociation and apathy. Made and sc
 
 a room render and stylized game asset hammer render
 
-![Write an alternative text description.](img/3dwork.png)
+![Write an alternative text description.](img/vonfishing_showcase_slide.png)
 
 enviroment for a short film "Von F. Ishing"
 
