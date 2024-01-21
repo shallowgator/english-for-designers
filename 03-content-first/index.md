@@ -1,6 +1,6 @@
 - [**Matúš Šeliga**](./index.md) <!-- Use `index.md` as well. `./` is a shortcut back to your home page `index.md` -->
     - [Work](work.md)
-    - [Writing](https://github.com/shallowgator/english-for-designers/blob/main/01-one-word/index.md)
+    - [Writing](writing.md)
     - [About](about.md)
 
 ## Howdy, round these parts I'm known (or unknown) as Matúš (or Matthew). I'm mainly an illustrator but I have a lot of curiosity and I like to shift my focus (atm also moonlighting as a private detective).
