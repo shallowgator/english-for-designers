@@ -3,7 +3,7 @@
     - [Writing](english-for-designers/01-one-word/index.md)
     - [About](about.md)
 
-## Howdy, round these parts I'm known (or unknown) as Matúš (or Matthew) and I'm mainly an illustrator but I have a lot of curiosity and wide and shifting focus (at the moment moonlighting as a private detective).
+## Howdy, round these parts I'm known (or unknown) as Matúš (or Matthew). I'm mainly an illustrator but I have a lot of curiosity and wide and shifting focus (at the moment moonlighting as a private detective).
 
 I also dabble in 3D, VFX, video editing, poetry/writing and playing/producing/recording music. I harbor deep admiration, fascination and enthusiasm for all kinds of creative endeavors. If you'd fancy more info: [smack me](about.md).
 
