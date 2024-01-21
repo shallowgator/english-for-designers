@@ -12,7 +12,7 @@ Consisting of drawings, linocuts, collages, music and everything in between.
 
 ![Write an alternative text description.](img/collages2.png)
 
-a series of collages combining painting, drawing and photography
+a series of collages combining painting, drawing, datamashing, photography and more.
 
 ![Write an alternative text description.](img/sg2.png)
 
