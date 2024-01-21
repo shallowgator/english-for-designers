@@ -8,5 +8,3 @@
 I also dabble in 3D, VFX, video editing, poetry/writing and playing/producing/recording music. I harbor deep admiration, fascination and enthusiasm for all kinds of creative endeavors. If you'd fancy more info: [smack me](about.md).
 
 ![Me in my makeshift bedroom recording "studio".](img/me_in_the_studio.png)
-
-![A stylized drawing of myself.](img/seliga-headshot.png)
