@@ -18,23 +18,19 @@ a series of collages combining painting, drawing, datamashing, photography and m
 
 an illustration and a linocut of the "gator" previously mentioned
 
-Link to some of my [musical endeavors](https://youtu.be/vD5ZIHvpqbM?si=bq7l1mWYVHtCFXhm/).
+Link to some of my [musical endeavors](https://www.youtube.com/channel/UC9kH5KZmBptF4Cbdzz87axw).
 
 ### Von F. Ishing
 
-![Write an alternative text description.](img/3dwork.png)
+![Write an alternative text description.](img/vonfishing_showcase_slide.png)
 
-a short film named: "Von F. Ishing" about disassociation and apathy. Made and scored by me. (made in Cinema4D, DaVinci Resolve, Ebsynth, Krita and FL Studio) link: [Von F. Ishing](https://youtu.be/0G5CC8RI3Ic?si=XGYTa0uACpFmAhq6/) short film.
+A short film about disassociation and apathy. Made and scored by me. (made in Cinema4D, DaVinci Resolve, Ebsynth, Krita and FL Studio) link: [Von F. Ishing](https://youtu.be/0G5CC8RI3Ic?si=XGYTa0uACpFmAhq6/) short film.
 
 ### some 3D work
 
 ![Write an alternative text description.](img/3dwork.png)
 
 a room render and stylized game asset hammer render
-
-![Write an alternative text description.](img/vonfishing_showcase_slide.png)
-
-enviroment for a short film "Von F. Ishing"
 
 ### Logo for a golf tournament and for a sheep wool oriented clothing company
 
