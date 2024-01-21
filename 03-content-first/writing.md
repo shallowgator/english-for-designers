@@ -5,4 +5,8 @@
 
 ## Here you can find some of my written projects like scripts/stories/poetry and other.
 
-[One Word](01-one-word/index.md)
+[One Word](https://github.com/shallowgator/english-for-designers/blob/main/01-one-word/index.md)
+
+...more to be added in due time...
+
+
