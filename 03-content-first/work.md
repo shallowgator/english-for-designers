@@ -16,7 +16,7 @@ a series of collages combining painting, drawing, datamashing, photography and m
 
 ![Write an alternative text description.](img/sg2.png)
 
-an illustration and a linocut of the hypothetical gator mentioned
+an illustration and a linocut of the "gator" previously mentioned
 
 Link to some of my [musical endeavors](https://youtu.be/vD5ZIHvpqbM?si=bq7l1mWYVHtCFXhm/).
 
