@@ -6,7 +6,7 @@
 ## Here you can find some of my written projects like scripts/stories/poetry and other.
 
 [One Word](https://github.com/shallowgator/english-for-designers/blob/main/01-one-word/index.md)
-# Short rumination on one word that ticks me off.
+### Short rumination on one word that ticks me off.
 
 ...more to be added in due time...
 
