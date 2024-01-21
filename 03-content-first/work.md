@@ -32,6 +32,12 @@ A short film loosely describing disassociation and/or apathy. Modeled, animated 
 
 a room render and stylized game asset hammer
 
+### Polar Expedition of 1984
+
+![Write an alternative text description.](img/polar-expd.png)
+
+Concept for a comics/animation about a girl who gets stranded alone in the freezing nothingness of South Pole. Full of paranoia, loneliness and hopelesness she tries to live on for as long as possible.
+
 ### Logo for a golf tournament and for a sheep wool oriented clothing company
 
 ![Write an alternative text description.](img/logos.png)
