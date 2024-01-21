@@ -8,7 +8,7 @@
 
 ### shallow gator
 
-Consisting of drawings, linocuts, collages, music and everything in between.
+Consisting of drawings, linocuts, collages, poetry, music and everything in between.
 
 ![Write an alternative text description.](img/collages2.png)
 
