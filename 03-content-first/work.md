@@ -30,7 +30,7 @@ A short film loosely describing disassociation and/or apathy. Modeled, animated 
 
 ![Write an alternative text description.](img/3dwork.png)
 
-a room render and stylized game asset hammer
+a room renders and stylized game asset hammer
 
 ### Polar Expedition of 1984
 
