@@ -38,10 +38,18 @@ a room renders and stylized game asset hammer
 
 Concept for a comics/animation about a girl who gets stranded alone in the freezing nothingness of South Pole. Full of paranoia, loneliness and hopelesness she tries to live on for as long as possible.
 
-### "commercial work"
-## Logo for a golf tournament and for a sheep wool oriented clothing company
+## some of my photographs
+
+![Write an alternative text description.](img/photographs.png)
+
+The two pictures on top are from a school project of my friend, I was helping her capture a sort of "living sculptures". 
+The bottom 3 pictures are trying to capture a sort of liminal atmosphere.
+
+## logo design work
 
 ![Write an alternative text description.](img/logos.png)
+
+Logo for a golf tournament and for a sheep wool oriented clothing company.
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
