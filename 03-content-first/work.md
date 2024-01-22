@@ -4,9 +4,9 @@
     - [About](about.md)
 ## MY WORK
 
-## a perpetual personal endeavor, multimedia project named: 
+### a perpetual personal endeavor, multimedia project named: 
 
-### shallow gator
+## shallow gator
 
 Consisting of drawings, linocuts, collages, poetry, music and everything in between.
 
@@ -20,19 +20,19 @@ an illustration and a linocut of the "gator" previously mentioned
 
 Link to some of my [musical endeavors](https://www.youtube.com/channel/UC9kH5KZmBptF4Cbdzz87axw).
 
-### Von F. Ishing
+## Von F. Ishing
 
 ![Write an alternative text description.](img/vonfishing_showcase_slide.png)
 
 A short film loosely describing disassociation and/or apathy. Modeled, animated and scored by myself. (made in Cinema4D, DaVinci Resolve, Ebsynth, Krita and FL Studio) link: [Von F. Ishing](https://youtu.be/0G5CC8RI3Ic?si=XGYTa0uACpFmAhq6/) short film.
 
-### other 3D work
+## other 3D work
 
 ![Write an alternative text description.](img/3dwork.png)
 
 a room renders and stylized game asset hammer
 
-### Polar Expedition of 1984
+## Polar Expedition of 1984
 
 ![Write an alternative text description.](img/polar-expd.png)
 
