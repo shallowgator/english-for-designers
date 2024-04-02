@@ -1,19 +1,16 @@
 ## Script v1
 #### What is music?
-If you are boring or maybe a robot you might've responded with "Music is wiggly air entering your eardrum vibrating it.", this is not entirely true. Of course on the surface level you can think about it like that but that
-stands in complete disregard to the whole human condition.
+If you are boring or maybe a robot you might've responded with "Music is wiggly air entering your eardrum vibrating it.", this is technically true but auguably, not really. Of course on the surface level you can think about it like that but that stands in complete disregard to the whole human condition, how we precieve things is infinitely complex and subjectively changing from one person to another.
 
-In a way, we can break down how we "absorb"(?) music to 2 aspects:
+Even from just a technical standpoint, music is not limited to just what eneters your ears. Deaf people attend concerts, why? Deaf people sense vibration in the part of the brain that other people use for hearing even person with perfect hearing can feel the low bass frequencies with your whole body.
 
-#### The "Emotional"?
-Music might register just as wiggly air if you're stone cold machine on a mission to ruin everyone's fun. Did that wiggly air just make me cry? Did it just remind me of a time in my life i wouldn't have remembered otherwise?
-We must not underestimate the emotional potecial of music and how it ties and merges with it's surroundings. I mean, if you saw a car crash(?), some very strong emotional moment i'd think you'd remember the song that was
-playing in that moment or if you didn't know it, you'd strongly associate it with that exact moment. You are experiencing music differently in every moment: sick in the bathroom of a club, on a tram playing from some kids
-bluetooth speaker, walking alone with headphones on, your friend playing a song from his shitty phone speaker. 
- 
-#### The Technical
-Even in technical speak, music is not just what eneters your ears. On concerts you can feel the low bass frequencies with your whole body.
+#### emotion/angle of the moment
+Music might register just as wiggly air if you're stone cold machine on a mission to ruin everyone's fun. Did that wiggly air just make me cry? Did it just remind me of a certain time in my life i wouldn't have remembered?We must not underestimate the emotional potecial of music and how it ties and merges with it's surroundings. I mean, if you saw a car crash(?), some very strong emotional moment i'd think you'd remember the song that was playing in that moment or if you didn't know it, you'd strongly associate it with that exact moment. You are experiencing music differently in every passing moment/it matters whether you experience/hear a song while crying on a bus at night or in the club drunk off your face.
+You're experiencing it differently now than you did 10 years ago and you'll be experiencing it differently 10 years from now. Maybe also for the fact that as you age you loose the ability to hear certain higher frequecies. This just solidifies music as an art-form is a in-the-moment experience, the fact that you can replay the song 50 times doesn't mean that you can relive the ever fleeting fist moment you heard it.
 
-#### Visualization
-##### What do you think about when someone asks you to visualize music?
-You might think of old Windows, PSP visualizers etc. maybe 
+#### Music as a "commodity"
+It's universally loved to put on music everywhere. I don't ever trust a person who say they don't like music. It's a soundtrack to any banal life situation can spice it up. I think that music has become a "commodity" of sorts. Sure it always was a commodity but now it's here more than ever and in quantity never seen before. I think, at least in my case this  We don't really interact with the music, we just pay our ridiculous little fee of like 3eur for spotify or whatever and we get access to literally tens of milions of songs anywhere, anytime. We just play some algorythm generated playlist and don't even bother to look at the song name. Sure, i'm guilty of this too, it's just how the landscape keeps evolving. Exactly for that reason we should try to connect to music "on a different level" more than ever. Go to your local show, go to that concert, buy a shitty turntable, read the lyric books.
+
+
+#### What am I trying to say?
+Dangerously close to sounding like some poseur self-help "guru" i'm going to try to explain what i guess i wanted to say. Maybe just chill out and take a moment. Listen to an album from beginning to an and without doing anything else. I often go on walks while listening to new music because i can rarely concentrate on just the music, which is the direct opposite of what i said before but still... I think that at the core of what i'm trying to say is something about appreciating the moment or however you might put it cause all the moments are just as fleeting as the songs and live performances, one moment they're there, the next they're gone and the only thing that remains is a beautifully innacurate hazy memory.
