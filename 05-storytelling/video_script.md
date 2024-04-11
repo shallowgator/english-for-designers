@@ -14,6 +14,8 @@ For example, I have one album that instantly transports me to summer 2019.
 ends, the music is no more.
 Another thing about this is that in different points of your life you perceive music completely differently. Something you disliked a few years ago can become your favourite and vice-versa. 
 Mayhaps the most clear example I could point out is the universal case of aging. In relation to music, this means that as our lives pass we gradually loose the abilty to hear higher pitches if not the ability to hear
-all-around. You ought to enjoy the music while you can in whatever capacity you're able to.
+all-around.
 On a personal note, one time I suffered double ear infection culminating in partial deafness in my left ear. I can tell you, after this ordeal I never enjoyed my newfound stereo hearing abilty more.
-
+You ought to enjoy the music while you can in whatever capacity you're able to.
+  Another thing that happened in recent years is the "commodification" of music. We can access liteally millions of tracks anytime we wish to. Now this is a sort of double edged sword. On one hand we can explore and enjoy
+  songs and artists we would never be introduced to otherwise. On the other hand it also works as a sort of overstimulation.
