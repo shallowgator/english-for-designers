@@ -11,7 +11,7 @@ Try to stay calm in most situations. When you act rashly, in-the-moment or on im
 
 #### *Hopefully never completely defined*
 
-Never want to come off too strong, to some it may feel like cowardice or "holding back" but I think you can never be 100% sure of the next step. Be confident in your choice but never blindly fall for your own conviction. Everything can change in a split-second, including you, beliefs you hold or the entire world. On the edge of familiarity.
+Never want to come off too strong, to some it may feel like cowardice or "holding back" the opposite may be superfluous and shallow. I think you can never be 100% sure of the next step. Be confident in your choice but never blindly fall for your own conviction. Everything can change in a split-second, including you, beliefs you hold or the entire world. On the edge of familiarity.
 
 ## *Tone*
 
