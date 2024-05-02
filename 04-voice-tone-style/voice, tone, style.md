@@ -3,7 +3,7 @@
 
 #### *Calm and captivating (for people who ought to be captivated)*
 
-Not one for over-the-top shenanigans directed to catch attention. Be true to yourself and don't try to catch everyone's interest, you don't really want everyone's interest. Instead try developing meaningful relationships that others benefit from as well as you.
+Not one for over-the-top shenanigans directed to catch attention. Want to be true to yourself and don't try to catch everyone's interest, you don't really want everyone's interest. Instead try developing meaningful relationships that others benefit from as well as you.
 
 #### *Introspective and if possible collected*
 
@@ -11,7 +11,7 @@ Try to stay calm in most situations. When you act rashly, in-the-moment or on im
 
 #### *Hopefully never completely defined*
 
-Never want to come off too strong, to some it may feel like cowardice or "holding back" the opposite may be superfluous and shallow. I think you can never be 100% sure of the next step. Be confident in your choice but never blindly fall for your own conviction. Everything can change in a split-second, including you, beliefs you hold or the entire world. On the edge of familiarity.
+Never want to come off *too* strong, for some it may be cowardice or "holding back" but for others the opposite may be true and it may come off as superfluous and shallow. I think you can never be 100% sure of the next step. Be confident in your choice but never blindly fall for your own conviction. For everything can change in a split-second. Including you, your beliefs and the entire world. On the edge of familiarity yet surprisingly unfamiliar.
 
 ## *Tone*
 
