@@ -1,7 +1,13 @@
 ## Script v1
 #### Music in animated film
 
-Have you ever seen a piece of completely silent media? No dialogue, no music just pure visuals. If you answered YES, don't you feel like it was missing something? If you also aswered yes then the response to "what was it missing was most probaby ####MUSIC. 
-Ever since the fist successful synchronization of sound and video in cinema it has become a inseparatable part of movie watching experience. Of course, the absence of it can be used to great effect too, but let's get back on track.
-One of the great japanese directors Mamoru Oshii once said: Half of animated film is the music. It deepens the impact of the visual as well as the story." and i think that's indisputable.
-Animated films contain
+In my bachelor's thesis I will be discussing the relationship between music and animation.
+From Disney, to Ghibli to experimental films, music in animation bears a great significance.
+The thesis will discuss history of music in animation as well as other aspects, for example:
+  The different similarities/parallels between music and animation such as: rhythm, composition, dynamic transformations, emotional potency/progressions
+It will also discuss topics such as the approach to music in animated films as there are multiple valid ways the animation and music can clash and affect each other. 
+Like: background music, diegetic music or music as a central theme and/or character.
+All this will be showcased on variety of picked examples that will include films/series/videoclips like: Disney's „Fantasia“ (1940), experimental Begone Dull Care“ (1949), Tame Impala's 3 „Feels Like We Only Go Backwards“ (2012) music videoclip, anime "Blue Giant" (2023) and more. 
+The thesis will also inevitably include a practical part in the form of my own short film paired with my own musical score.
+Everything is being worked on in the present time so there's not much to show off as of now.
+  
