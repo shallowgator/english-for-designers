@@ -9,7 +9,7 @@ Not one for over-the-top shenanigans directed to catch attention. Want to be tru
 
 Try to stay calm in most situations. When you act rashly, in-the-moment or on impulse you may do or say something you don't really want to do/say. Let it flow through your head, sleep on it, make an informed decision you can feel confident in, because decisions and words may represent you as a person and when the time comes, you'll have to stand behind them.
 
-#### *Hopefully never completely defined*
+#### *Hopefully never completely "final/defined"*
 
 Never want to come off *too* strong, for some it may be cowardice or "holding back" but for others the opposite may be true and it may come off as superfluous and shallow. I think you can never be 100% sure of the next step. Be confident in your choice but never blindly fall for your own conviction. For everything can change in a split-second. Including you, your beliefs and the entire world. On the edge of familiarity yet surprisingly unfamiliar.
 
