@@ -1,3 +1,4 @@
+## VIDEO:
 ## Script v1
 #### Music in animated film
 
@@ -10,4 +11,6 @@ Like: background music, diegetic music or music as a central theme and/or charac
 All this will be showcased on variety of picked examples that will include films/series/videoclips like: Disney's „Fantasia“ (1940), experimental Begone Dull Care“ (1949), Tame Impala's 3 „Feels Like We Only Go Backwards“ (2012) music videoclip, anime "Blue Giant" (2023) and more. 
 The thesis will also inevitably include a practical part in the form of my own short film paired with my own musical score.
 Everything is being worked on in the present time so there's not much to show off as of now.
+
+
   
