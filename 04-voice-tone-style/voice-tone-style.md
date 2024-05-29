@@ -28,5 +28,6 @@ Everyone's worldview is different in things ranging from big to small. Don't alw
 Funny pictures like "the fog is coming"..
 Overcomplicated and/or cryptic words.
 Usage of / (slashes) - (dashes) and () (parentheses).
+Never full ellipsis, just ".."
 If possible just lowercase letters.
 Overly melodramatic music.
