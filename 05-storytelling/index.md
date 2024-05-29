@@ -1,5 +1,5 @@
 ## YT video link: [Here](https://youtu.be/rxhvGMulZ50)
-## GDrive video link: [Here](https://drive.google.com/drive/folders/1CrxG64MS_ZU8DhbOktVDMRsA2KvFHAFh?usp=drive_link)
+## GDrive video link: [Here](https://drive.google.com/drive/folders/1CrxG64MS_ZU8DhbOktVDMRsA2KvFHAFh?usp=sharing)
 ## Video_script
 ### Music?
 #### or whatever you want to hear.
